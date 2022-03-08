@@ -1,2 +1,2 @@
-# pyhtonGames
+# pythonGames
 Python games for beginners
